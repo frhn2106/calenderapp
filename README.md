@@ -1,5 +1,6 @@
-# calenderapp
-calender app made by flutter
+# calendarapp
+calendar app made by flutter
+
 Nama Kelompok :
 1. Agung Tri Laksono - 19220975
 2. AMuhamad Farhan - 19220285
